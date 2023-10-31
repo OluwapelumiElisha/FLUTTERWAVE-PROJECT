@@ -4,17 +4,6 @@
   box-sizing: border-box;
   list-style-type: none;
   text-decoration: none;
-  animation-name: move;
-  animation-duration: 3s;
-  animation-timing-function: ease-in;
-}
-@keyframes move {
-  from {
-    transform: translatey(0px);
-  }
-  to {
-    transform: translatey(500px);
-  }
 }
 
 header {

@@ -1010,7 +1010,7 @@ section #link:hover .fa-solid {
   }
   header nav #menu {
     display: block;
-    right: 0px;
+    right: 4px;
   }
 }
 @media (max-width: 555px) {
