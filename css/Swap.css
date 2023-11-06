@@ -779,7 +779,7 @@ header #menu {
   }
   header nav #menu {
     display: block;
-    right: 0px;
+    right: 10%;
   }
 }
 @media (max-width: 900px) {

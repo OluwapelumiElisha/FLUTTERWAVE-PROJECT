@@ -620,7 +620,7 @@ section .container-grid input:focus {
   }
   header nav #menu {
     display: block;
-    right: 0px;
+    right: 10%;
   }
 }
 @media (max-width: 980px) {
